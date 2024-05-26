@@ -4,5 +4,16 @@
   "artist": "Команда Гэгэ Акутами",
   "author": "Гэгэ Акутами",
   "cover": "https://i.pinimg.com/originals/85/77/fd/8577fd27ba02f74bd06a0e985d4665e6.png",
-  "chapters": {}
+  "chapters": {
+    "246": {
+      "title": "246",
+      "volume": "19",
+      "last_updated": "1716745242",
+      "groups": {
+        "Магическая битва": [
+          "https://drive.usercontent.google.com/download?id=1JW2LzhokjkBYEnom7FLZxujsmLGcivKn"
+        ]
+      }
+    }
+  }
 }
