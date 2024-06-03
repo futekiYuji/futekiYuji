@@ -1,16 +1,48 @@
 {
   "title": "Магическая битва",
-  "description": "Перевод глав манги «Магическая битва» от команды «Храм погасшей звезды».",
-  "artist": "Команда Гэгэ Акутами",
+  "description": "Перевод глав манги «Магическая битва» от команды «Храм погасшей звезды».  Telegram channel: https://t.me/jjk_baza_tg",
+  "artist": "Храм Погасшей Звезды",
   "author": "Гэгэ Акутами",
   "cover": "https://i.pinimg.com/originals/85/77/fd/8577fd27ba02f74bd06a0e985d4665e6.png",
   "chapters": {
+    "255": {
+      "title": "255",
+      "volume": "1",
+      "last_updated": "1717445146",
+      "groups": {
+        "JJK": "/proxy/api/imgur/chapter/ilB5rNp"
+      }
+    },
     "256": {
-      "title": "Глава 256 — Решающая битва в Синдзюку, столице нечисти (28)",
+      "title": "Решающая битва в Синдзюку, столице нечисти. Часть 28",
       "volume": "1",
       "last_updated": "1716748194",
       "groups": {
         "JJK": "/proxy/api/imgur/chapter/0tIWwEi"
+      }
+    },
+    "257": {
+      "title": "Решающая битва в Синдзюку, столице нечисти. Часть 29",
+      "volume": "1",
+      "last_updated": "1717445089",
+      "groups": {
+        "JJK": "/proxy/api/imgur/chapter/BJLHWny"
+      }
+    },
+    "258": {
+      "title": "Решающая битва в Синдзюку, столице нечисти. Часть 30",
+      "volume": "1",
+      "last_updated": "1717444994",
+      "groups": {
+        "JJK": "/proxy/api/imgur/chapter/mRTHp5F"
+      }
+    },
+    "259": {
+      "title": "Решающая битва в Синдзюку, столице нечисти. Часть 31",
+      "volume": "1",
+      "last_updated": "1717444826",
+      "groups": {
+        "JJK": "/proxy/api/imgur/chapter/oNmvdNw"
       }
     }
   }
