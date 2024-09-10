@@ -74,9 +74,7 @@
       "volume": "1",
       "last_updated": "1725913170",
       "groups": {
-        "JJK": [
-          "https://imgur.com/a/FTw0q8I"
-        ]
+        "JJK": "/proxy/api/imgur/chapter/FTw0q8I"
       }
     }
   }
